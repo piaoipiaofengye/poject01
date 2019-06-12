@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dyWeb02/dyWeb02.iml" filepath="$PROJECT_DIR$/dyWeb02/dyWeb02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dyWeb1/dyWeb1.iml" filepath="$PROJECT_DIR$/dyWeb1/dyWeb1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module01/module01.iml" filepath="$PROJECT_DIR$/module01/module01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poject01.iml" filepath="$PROJECT_DIR$/poject01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staticWeb01/staticWeb01.iml" filepath="$PROJECT_DIR$/staticWeb01/staticWeb01.iml" />
+    </modules>
+  </component>
+</project>
